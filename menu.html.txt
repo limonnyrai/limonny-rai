@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Меню</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+<h1>Меню</h1>
+</header>
+<section>
+<div class="card">
+Лимонад — 250 мл — 30 ₽
+</div>
+<div class="card">
+Вода — 250 мл — 26 ₽
+</div>
+<div class="card">
+Компот с курагой — 250 мл — 100 ₽
+</div>
+<div class="card">
+Лаймонад — 150 мл — 30 ₽
+</div>
+<div class="card">
+Кекс — 30 г — 20 ₽
+</div>
+<div class="card">
+Кекс с M&M's — 30 г — 35 ₽
+</div>
+<div class="card">
+Вкусноежки — 100 г — 80 ₽
+</div>
+</section>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Акции</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+<h1>Акции</h1>
+</header>
+<section>
+<div class="card">
+🎂 В день рождения напиток бесплатно
+</div>
+<div class="card">
+🧁 Кекс с M&M's — 1+1
+</div>
+<div class="card">
+🥤 Два напитка — скидка 5%
+</div>
+<div class="card">
+👥 Приведи друга — промокод 10%
+</div>
+<div class="card">
+🎁 Купи 3 напитка и получи кекс с M&M's бесплатно
+</div>
+</section>
+</body>
+</html>
